@@ -4,8 +4,7 @@ Repositório criado para o Desafio de Projeto
 ### Este repositório servirá para eu colocar os comandos gits que foram aprendidos nos cursos Introdução ao Git/GitHub da Digital Innovation One. 
 
 - **cd pasta** : serve para eu começar a navegar dentro de uma pasta no git bash. 
-- **cd .. :** serve para eu voltar uma pasta atrás. 
-Exemplo: se no github eu estou na pasta Exercício 1, que está dentro da pasta Lista de Exercícios, se eu usar esse comando, passarei a navegar na pasta Lista de Exercícios. 
+- **cd .. :** serve para eu voltar uma pasta. 
 - **ls:** mostra os arquivos que estão dentro da pasta. 
 - **ls -a:** mostra os arquivos git contidos dentro da pasta que ficam ocultos. 
 - **git init:** serve para iniciar os códigos git. 
